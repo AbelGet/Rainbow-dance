@@ -1,0 +1,4 @@
+go up
+go down
+go left
+go right
